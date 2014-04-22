@@ -1,11 +1,13 @@
 # webapp-handlebars-ajax
 
 ```
-yo webapp --coffee
+git clone https://github.com/bathtimefish/webapp-handlebars-ajax.git
 ```
 
 ```
-bower install handlebars
+npm install && bower install
 ```
 
-replace index.html, scripts/main.js and scripts/template.js
+```
+grunt server
+```
